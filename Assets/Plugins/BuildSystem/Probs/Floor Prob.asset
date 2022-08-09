@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22272781d5b84be3b142ac321ea30a77, type: 3}
+  m_Name: Floor Prob
+  m_EditorClassIdentifier: 
+  prefabPlacing: {fileID: 4732982054572807831, guid: 8b74febf4dfefcc4cb0cb2c3f9184db0, type: 3}
+  prefabPlaced: {fileID: 4732982054572807831, guid: 6891f6948c8ef1e438bd1578bd15e3d2, type: 3}
+  placementType: 0
+  scaleWithCellSize: 1
+  cellsNeeded:
+    row: 1
+    column: 1
+  centerCell:
+    row: 0
+    column: 0
